@@ -1,4 +1,4 @@
-# simple-proxy
+# ProxyHub
 
 Simple reverse proxy to bypass CORS.
 
